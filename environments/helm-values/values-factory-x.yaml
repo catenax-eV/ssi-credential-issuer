@@ -47,7 +47,7 @@ service:
   credential:
     issuerDid: "did:web:portal-backend.factory-x.catena-x.net:api:administration:staticdata:did:BPNL00000003CRHK"
     issuerBpn: "BPNL00000003CRHK"
-    statusListUrl: "https://dim-static-prod.dis-cloud-prod.cfapps.eu10-004.hana.ondemand.com/credentials/status/ba0cd4ef-63e0-4c13-829a-915c496dc836/3c7b17d8-fe44-4f08-9bf9-f786f8be73bf"
+    statusListUrl: "https://dim-static-prod.dis-cloud-prod.cfapps.eu10-004.hana.ondemand.com/credentials/status/"
     encryptionConfigs:
       index0:
         encryptionKey: "<path:factory-x/data/portal/ssi-credential-issuer/credential#encryptionKey0>"
